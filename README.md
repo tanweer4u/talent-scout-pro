@@ -133,16 +133,6 @@ No installation required.
 
 ---
 
-## Submission Checklist
-
-- [x] Working prototype: https://talent-scout-pro.netlify.app/
-- [x] Source code + README: https://github.com/tanweer4u/talent-scout-pro
-- [x] Architecture diagram: see `architecture.png` in repo
-- [x] Sample inputs and outputs: this README
-- [ ] Demo video: add Loom link here
-
----
-
 ## Built by
 
 Tanveer Masood
