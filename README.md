@@ -1,4 +1,4 @@
-# TalentPulse — AI Talent Scouting & Engagement Agent
+# Talent Scout Pro — AI Talent Scouting & Engagement Agent
 
 > Paste a job description. The agent searches LinkedIn, extracts real profiles, scores candidates, simulates outreach, and delivers a ranked shortlist in under 90 seconds.
 
@@ -10,7 +10,7 @@
 
 ## The problem it solves
 
-Recruiters spend hours sifting through profiles and chasing candidate interest. TalentPulse is an AI agent that automates the entire top-of-funnel recruitment process. Paste any job description and get a ranked shortlist with real LinkedIn profiles, Match Scores, Interest Scores, notice periods, screening questions, and a Recruiter Action Plan in under 90 seconds.
+Recruiters spend hours sifting through profiles and chasing candidate interest. Talent Scout Pro is an AI agent that automates the entire top-of-funnel recruitment process. Paste any job description and get a ranked shortlist with real LinkedIn profiles, Match Scores, Interest Scores, notice periods, screening questions, and a Recruiter Action Plan in under 90 seconds.
 
 Built specifically for the **Indian recruitment market**: Indian cities, Indian companies, Indian salary norms (LPA), and standard notice period awareness (30 to 90 days) baked into every run.
 
